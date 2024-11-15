@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(255, 253, 208);
+}
+#logo{
+padding-top: 3.8%;
+}
+#search{
+    padding: 10px;
+    color: red;
+    border: 1px solid red;
+    height: 10px;
+    border-radius: 20px;
+}
+input[type="button"]{
+    color: white;
+    background-color: darkred;
+    border: 1px white;
+    border-radius: 20px;
+    padding: 14px;
+    font-size: 10px;
+    margin-left: 95%;
+}
+#jj{
+    border: 0.1px solid;
+    height: 180px;
+    margin-left: 34px;
+    
+}
+#p{
+    padding-left: 99px;
+    color: darkred;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#s{
+    color: darkred;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#about{
+    height: fit-content;
+    background-color: black;
+    margin-bottom: 0px;
+    color: white;
+    margin-top: 30px;
+    border: solid;
+    border-radius: 20px;
+    font-size: 10px;
+    padding: 2px;
+}
